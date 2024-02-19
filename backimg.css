@@ -1,0 +1,7 @@
+#top{
+    background-image: url(c1.jpg);
+    height: fit-content;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
